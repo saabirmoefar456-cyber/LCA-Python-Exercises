@@ -1,6 +1,6 @@
-# LCA-Python-Exercises
+# LCA-Python-Exercises1
 
-**Trainee:** [saabir moefar]
+**Trainee:** [Saabir Moefar]
 **Programme:** YouthCode Off-Site — Cohort 2, 2026
 **Course:** Course 1 — Frontend Web Development
 **Topic:** Python Exercises
