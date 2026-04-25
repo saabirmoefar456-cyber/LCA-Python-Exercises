@@ -1,0 +1,8 @@
+cardict ={ 
+  "brand":"jaguar"
+  "model":"f-type"
+  "drivetrain""rear-wheel"
+}
+
+print (cardict["model"])
+print (cardict["drivetrain"])
